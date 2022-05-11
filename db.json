@@ -1,0 +1,26 @@
+{
+  "Products": [],
+  "Category": [],
+  "Tags": [
+    {
+      "id": 4,
+      "name": "hggfgycf",
+      "slug": "hggfgycf"
+    },
+    {
+      "id": 5,
+      "name": "inio",
+      "slug": "inio"
+    },
+    {
+      "id": 6,
+      "name": "kodo",
+      "slug": "kodo"
+    },
+    {
+      "id": 7,
+      "name": "hyjkio",
+      "slug": "hyjkio"
+    }
+  ]
+}
